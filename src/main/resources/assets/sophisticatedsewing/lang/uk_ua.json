@@ -1,0 +1,13 @@
+{
+  "item.sophisticatedsewing.bound_leather": "Зв'язана шкіра",
+  "item.sophisticatedsewing.dried_leather": "Сушена шкіра",
+  "item.sophisticatedsewing.tanned_leather": "Дублена шкіра",
+  "item.sophisticatedsewing.sewing_spool": "Котушка для шиття",
+  "item.sophisticatedsewing.copper_pocket": "Мідна кишеня",
+  "item.sophisticatedsewing.iron_pocket": "Залізна кишеня",
+  "item.sophisticatedsewing.golden_pocket": "Золота кишеня",
+  "item.sophisticatedsewing.diamond_pocket": "Алмазна кишеня",
+  "item.sophisticatedsewing.netherite_pocket": "Незеритова кишеня",
+  "block.sophisticatedsewing.sewing_table": "Стіль для шиття",
+  "creativetab.sophisticatedsewing.sewing_table": "Sophisticated Sewing"
+}
